@@ -64,7 +64,7 @@ A simple RESTful API built with Fastify, Mongoose, and MongoDB to manage tasks. 
 
 
 ### Documentation
-- **Postman** `https://documenter.getpostman.com/view/30026806/2sAYdhKADd`
+- **Postman Documentation** [Postman doc](https://documenter.getpostman.com/view/30026806/2sAYdhKADd)
 ## Example Requests
 
 ### Register User
