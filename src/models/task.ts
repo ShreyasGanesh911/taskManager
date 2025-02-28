@@ -7,7 +7,7 @@ const taskSchema = new mongoose.Schema({
     },
     description:{
         type:String,
-        
+        required:[true,"Description must be provided"]
     },
     user:{
         type:mongoose.Schema.Types.ObjectId,
